@@ -1,6 +1,6 @@
 # Erlang Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-erlang.png)](https://travis-ci.org/boxen/puppet-erlang)
+[![Build Status](https://travis-ci.org/jszod/puppet-erlang.png)](https://travis-ci.org/jszod/puppet-erlang)
 
 Install the [Erlang](http://www.erlang.org) programming language via Homebrew.
 
