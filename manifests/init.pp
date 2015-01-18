@@ -3,7 +3,7 @@
 # Examples
 #
 #   include erlang
-class erlang($version = '17.0-1')
+class erlang($version = '17.4-2')
 {
   case $::macosx_productversion_major {
     '10.10': { $_osx_version = '10.10' }
