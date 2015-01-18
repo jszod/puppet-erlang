@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/boxen/puppet-erlang.png)](https://travis-ci.org/boxen/puppet-erlang)
 
-Install the [Erlang](http://www.erlang.org) programming language.
+Install the [Erlang](http://www.erlang.org) programming language via Homebrew.
 
 ## Usage
 
